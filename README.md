@@ -8,3 +8,5 @@
 **команда git push** также извлекает содержимое из удаленного репозитория, **но**
 
 дает ознакомиться с изменениями.
+
+command $ git commit --amend let you change the last commit
